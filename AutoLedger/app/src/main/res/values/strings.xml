@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoLedger</string>
+    <string name="notification_listener_label">AutoLedger Payment Detector</string>
+</resources>
